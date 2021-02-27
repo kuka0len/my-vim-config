@@ -10,5 +10,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'tpope/vim-fugitive'                           " Git
     Plug 'tpope/vim-rhubarb'                            " Git
     Plug 'junegunn/gv.vim'                              " Git
+    Plug 'ryanoasis/vim-devicons'                       " Icons
 
 call plug#end()
